@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Django, PyTorch, and TensorFlow**
 
-- 📫 How to reach me **rdoromal30@gmail.com**
+- 📫 How to reach me: **rdoromal30@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
