@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishi</h1>
 <p align="center">A <b>CS student</b> and <b>full stack developer</b> specializing in <b>Data Science</b> from the <b>Philippines</b> 🇵🇭 </p>
 
-- 👩‍💻 I’m currently working on **improving a Bomberman-style game made for a school project**
+- 👩‍💻 I’m currently working on **improving a Bomberman-style game made for a school project** and making a **chatbot using React**
 
 - 🔭 I want to do research on **Computer Vision for counterfeit medicine detection**
 
